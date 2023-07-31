@@ -32,7 +32,7 @@
 - Menggunakan DOM untuk memanipulasi tampilan aplikasi
 
 ## Live Demo
-[https://yuliusius1.github.io/submission_belajar_membuat_frontend_web_untuk_pemula/](https://yuliusius1.github.io/submission_belajar_membuat_frontend_web_untuk_pemula/)
+[https://yuliusius1.github.io/submission1.html](https://yuliusius1.github.io/submission1.html)
 
 ## Author
 - [Natanael Yulius](https://master--yuliusius.netlify.app/)
